@@ -1,0 +1,41 @@
+.h2-result{
+    text-align :center;
+    margin-top:30px;
+    height:50px;
+    font-size:25px;
+    text-decoration: bold;
+}
+.row-result li{
+    list-style-type: decimal;
+}
+.row-result .col-lg-4{
+    border:1px solid black;
+    height
+}
+.row-result .col-lg-4:hover{
+    transition:1s;
+    box-shadow: 5px 5px gray;
+}
+.row-cum li{
+    list-style-type: decimal;
+}
+.row-cum .col-lg-4{
+    height:300px;
+    border:1px solid black;
+    height
+}
+.row-cum .col-lg-4:hover{
+    transition:1s;
+    box-shadow: 5px 5px gray;
+}
+.row-cum .col-lg-12{
+    border:1px solid black;
+    height
+}
+.row-cum .col-lg-12:hover{
+    transition:1s;
+    box-shadow: 5px 5px gray;
+}
+.container-result {
+    background-color:#EBE8ED;
+}

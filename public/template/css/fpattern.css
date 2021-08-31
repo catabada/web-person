@@ -1,0 +1,29 @@
+.nav-link {
+  margin-left: 50px;
+  color: black;
+}
+.nav-link:hover {
+  color: #cc0066;
+}
+.logo {
+  /* margin-top:-10px; */
+  /* margin-right: 250px; */
+  width:150px;
+  margin-left: 100px;
+}
+.navbar-nav {
+  margin-left: -500px;
+}
+.collapse {
+  margin-top: 20px;
+}
+a {
+  color: black;
+}
+.w-100 {
+  margin-top:50px;
+}
+.col-sm-6 h3{
+  text-indent:10px;
+}
+

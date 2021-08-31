@@ -1,0 +1,52 @@
+.navbar-nav li {
+    list-style-type:none;
+}
+.navbar-brand {
+    margin-left:18px;
+    margin-right:600px;
+    color:black;
+
+}
+.container-zpattern {
+    background: url('../img/backgroundZpattern.png') no-repeat ;
+    background-size:100% 600px;
+    opacity:0.5;
+    width: 100%;
+    height:600px;
+}
+.row {
+    width:100%;
+}
+.col-sm-3 h2{
+    padding-left: 160px;
+    padding-top: 70px;
+    width: 200px;
+}
+.container-zpattern .inputText {
+    height:50px;
+    width:330px;
+    margin-left:80px;
+    margin-bottom: 30px;
+    border-radius:7px;
+    font-size:18px;
+}
+.btnLogin {
+    width:330px;
+    height:50px;
+    margin-left:80px;
+    background-color: #0078FF;
+    color:white;
+}
+.signup {
+    color:black;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.signup a{
+    color:blue;
+}
+.container-zpattern .col-sm-3{
+    margin-left:510px;
+    
+}

@@ -1,0 +1,62 @@
+a.nav-brand {
+  font-weight: bold;
+  color: #777777;
+  margin-right: 250px;
+  font-size: 20px;
+}
+a.nav-brand:hover, a.nav-brand:focus {
+  color: #777777;
+}
+.my-h2-skill {
+  font-weight: bold;
+  font-size: 80px ;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.my-h2 {
+  font-weight: bold;
+  font-size: 80px ;
+  text-shadow: -2px 0 white, 0 -3px white, 1px 0 black, 0 -1px black;
+}
+
+.avatar {
+  padding-left:200px;
+}
+.my-h2-contact {
+  font-weight: bold;
+  font-size: 180px ;
+  text-shadow: -3px 0 black, 0 -3px black, -3px 0 black, 0 -3px black;
+}
+.col-title {
+  font-size: 20px;
+  margin-top:30px;
+  font-weight: bold;
+}
+.col-content {
+  font-size: 20px;
+  margin-top:30px;
+}
+.col-title p, .col-content p {
+  color: black;
+  margin-top: -10px;
+}
+.footer_bottom b {
+  color:black;
+}
+.requiment {
+  text-decoration: underline;
+}
+.btn-primary {
+  float :left;
+  clear:both;
+}
+.manager {
+  text-decoration: bold;
+  font-size: 50px;
+  text-align:center;
+}
+.nav-search {
+  float:right;
+}
+.tabActive h5{
+  background-color: black;
+}

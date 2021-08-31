@@ -1,0 +1,192 @@
+.container-fptshop {
+    margin-top:50px;
+    height:1050px;
+}
+.input-search {
+    margin-left:200px;
+    margin-top: -23px;;
+    height:38px;
+}
+.btn-search {
+    margin-top: -5px;
+    height: 38px;
+    color:white;
+    background-color:#333;
+}
+.btn-search:hover, .btn-search:focus {
+    color:white;
+}
+.btn-search i{
+    width: 50px;
+    height:30px;
+}
+.row-logo-search {
+    background-color:#cd1818;
+    height:55px;
+    padding-top:18px;
+}
+.fptshop-logo {
+    margin-top:-19px;
+    width:150px;
+    height:50px;
+}
+.navbar-nav {
+}
+.container-fptshop .fa {
+    margin-right:10px;
+}
+.container-fptshop .nav-link{
+    text-transform: uppercase;
+    font-size:18px;
+    color:white;
+    font-weight:bold;
+}
+
+.container-fptshop .navbar-nav {
+    margin-left:0px;
+  
+    background-color:black;
+    
+}
+.row-breadcrum .nav-link{
+    color:#0168fa;
+    font-size:14px;
+    margin-right:-47px;
+    font-weight: normal;
+    text-transform:none;
+}
+.name-product {
+    font-weight:bold;
+    width:650px;
+    font-size:18px;
+}
+.col-evaluate i{
+color: rgb(212, 161, 18);
+}
+.col-evaluate {
+    text-align:right;
+}
+.price-reduce {
+    font-size:28px;
+    font-weight:bold;
+    width:160px;
+    color:red;
+    margin-right:20px;
+}
+.price-real {
+    text-decoration:line-through;
+    font-size:16px;
+    float:left;
+    width:100px;
+    color:gray;
+}
+.col-price {
+    display:flex;
+}
+.row-radio li{
+    text-align:left;
+    width:310px;
+    font-size:14px;
+    clear:both;
+    list-style-type:none;   
+}
+.row-radio ul {
+    margin-top:10px;
+    margin-left:-50px;
+}
+.row-radio {
+    border:1px solid gray;
+    height:120px;
+    width:490px;
+    background-color:#eff2f7;
+}
+.row-radio b {
+    margin-left:-20px;
+}
+.title-3in1 {
+    background-color:#eff2f7;
+    font-size:14px;
+    color:black;
+    font-weight:bold;
+    border:1px solid gray;
+}
+.endow {
+    width:100px;
+    font-weight:bold;
+    background-color: #dde0e0;
+}
+.row-endow {
+    background-color:#eff2f7;
+    border:1px solid gray;
+    width:490px;
+}
+.row-endow li {
+    list-style-type : none;
+    
+}
+.row-endow i {
+    color:rgb(25, 189, 25);
+}
+.btn-12 {
+    width:490px;
+    margin-top:8px;
+    margin-left:-15px;
+    background-color:#cb1c22;
+    border-radius:5px;
+    border:1px solid #cb1c22;
+    
+}
+.btn-12 div {
+    color:white;
+    font-size:20px;
+}
+.btn-12 p {
+    color:white;
+    font-size:12px;
+}
+.btn-6 div {
+    color:white;
+    font-size:20px;
+}
+.btn-6 p {
+    color:white;
+    font-size:12px;
+}
+.btn-6 {
+    width:244px;
+    margin-top:8px;
+    margin-left:-5px;
+    margin-right:3px;
+    background-color:#007aff;
+    border-radius:5px;
+    border:1px solid #007aff;
+    
+}
+.btn-12:hover {
+    background-color:#a5161b;
+}
+.btn-6:hover {
+    background-color:#045ebe;
+}
+.row-property {
+    background-color:#eff2f7;
+    border:2px solid #eff2f7;
+   
+}
+.row-property:hover {
+    border:2px solid black;
+    transition:1s;
+}
+.row-contact {
+    padding-left:20px;
+    margin-top:500px;
+    width:100%;
+}
+.row-contact input {
+    width:400px;
+    margin-right:50px;
+    height:30px;
+    margin-bottom:20px;
+}
+
+

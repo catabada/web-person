@@ -1,0 +1,219 @@
+.element {
+    text-decoration: bold;
+    font-size:20px;
+    color:black;
+    width:100px;
+    padding:10px 10px;
+    display:inline-block;
+    margin-left:30px;
+    text-align:center;
+    cursor:pointer;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-family:'Times New Roman', Times, serif;
+  
+}
+.tab {
+    text-align:center;
+}
+.selected {
+    background-color: #FEB11E;
+    box-shadow: 1px 1px 2px black;
+}
+.tab-content {
+    margin:30px 80px;
+    width:90%;
+    height:1200px;
+}
+.tab-lab {
+    width:100%;
+}
+.element-lab-1 {
+    font-family:'Times New Roman', Times, serif;
+    border: 1px solid black;
+    font-size:20px;
+    text-align:center;
+    width:33.3333333%;
+    display:inline-block;
+    cursor:pointer;
+    color:black;
+    float: left;
+}
+.element-lab-2 {
+    font-family:'Times New Roman', Times, serif;
+    border: 1px solid black;
+    font-size:20px;
+    text-align:center;
+    width:25%;
+    display:inline-block;
+    cursor:pointer;
+    color:black;
+    float: left;
+}
+.requiment ,p{
+    font-size : 16px;
+    color:black;
+}
+thead, tbody   {
+    color :black;
+    text-align:center;
+}
+thead th{
+    color:black;
+    text-align:center;
+}
+td .fa {
+    width:30px;
+    cursor:pointer;
+}
+.fa-remove {
+    color:red;
+}
+.fa-edit {
+    color:blue;
+}
+.stt {
+    text-align: left;
+}
+.tab-lab-content{
+    border:4px solid black;
+    text-align:left;
+}
+li {
+    list-style-type: circle;
+    font-size:16px;
+    color:black;
+}
+.form-inline {
+    float:right;
+}
+.row label {
+    float:left;
+    color: black;
+    clear:right;
+    margin-left:30px;
+}
+.col-md-6 input {
+    width: 600px;
+    height: 35px;
+    float: left;
+    margin-left:30px;
+}
+input[type = "date"]:focus, input[type="text"]:focus, input[type="email"]:focus{
+    border:3px solid blue;
+    box-shadow: 0px 0px blue;
+    border-radius:5px;
+    transition: 1s;
+    
+}
+input[type = "date"], input[type="text"], input[type="email"] {
+    width: 400px;
+}
+input[type = "radio"] {
+    width: 15px;
+    height: 15px;
+}
+input {
+    border-radius:5px;
+}
+.tab-option {
+    text-align:center;
+}
+.option  {
+    width:50%;   
+    display:inline-block;
+    font-size: 20px;
+    color:black;
+    border: 1px solid black;
+    cursor:pointer;
+}
+.option-selected {
+    background-color:#FEB11E;
+
+}
+.tab-lab-option-content {
+    border:1px solid black;
+}
+.col-md-6 {
+    padding-left:80px;
+    margin-bottom:30px;
+    height:30px;
+}
+section {
+    width:100%;
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}.tab{
+    margin-top: 30px;
+}
+.tab .nav-tabs{
+    border:none;
+    border-bottom: 1px solid #e4e4e4;
+}
+.nav-tabs li a{
+    padding: 15px 40px;
+    border:1px solid #ededed;
+    border-top: 2px solid #ededed;
+    border-right: 0px none;
+    background: #7a81f4;
+    color:#fff;
+    border-radius: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+    transition: all 0.3s ease-in 0s;
+}
+.nav-tabs li a:hover{
+    border-bottom-color: #ededed;
+    border-right: 0px none;
+    background: #00b0ad;
+    color: #fff;
+}
+.nav-tabs li a i{
+    display: inline-block;
+    text-align: center;
+    margin-right:10px;
+}
+.nav-tabs li:last-child{
+    border-right:1px solid #ededed;
+}
+.nav-tabs li.active a,
+.nav-tabs li.active a:focus,
+.nav-tabs li.active a:hover{
+    border-top: 3px solid #00b0ad;
+    border-right: 1px solid #d3d3d3;
+    margin-top: -15px;
+    color: #444;
+    padding: 22px 40px;
+}
+.tab .tab-content{
+    padding: 20px;
+    line-height: 22px;
+    box-shadow:0px 1px 0px #808080;
+}
+.tab .tab-content h3{
+    margin-top: 0;
+}
+@media only screen and (max-width: 767px){
+    .nav-tabs li{
+        width:100%;
+        margin-bottom: 10px;
+    }
+    .nav-tabs li a{
+        padding: 15px;
+    }
+    .nav-tabs li.active a,
+    .nav-tabs li.active a:focus,
+    .nav-tabs li.active a:hover{
+        padding: 15px;
+        margin-top: 0;
+    }
+}
+#Section1 {
+    text-align:left;
+}
